@@ -1,0 +1,14 @@
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\bin\Debug\net6.0\P1AJGC1092223.exe
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\bin\Debug\net6.0\P1AJGC1092223.deps.json
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\bin\Debug\net6.0\P1AJGC1092223.runtimeconfig.json
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\bin\Debug\net6.0\P1AJGC1092223.dll
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\bin\Debug\net6.0\P1AJGC1092223.pdb
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\obj\Debug\net6.0\P1AJGC1092223.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\obj\Debug\net6.0\P1AJGC1092223.AssemblyInfoInputs.cache
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\obj\Debug\net6.0\P1AJGC1092223.AssemblyInfo.cs
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\obj\Debug\net6.0\P1AJGC1092223.csproj.CoreCompileInputs.cache
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\obj\Debug\net6.0\P1AJGC1092223.dll
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\obj\Debug\net6.0\refint\P1AJGC1092223.dll
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\obj\Debug\net6.0\P1AJGC1092223.pdb
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\obj\Debug\net6.0\P1AJGC1092223.genruntimeconfig.cache
+C:\Users\Amada\Documents\Programación\SEMANA_11_PROYECTO\P1AJGC1092223\P1AJGC1092223\obj\Debug\net6.0\ref\P1AJGC1092223.dll
