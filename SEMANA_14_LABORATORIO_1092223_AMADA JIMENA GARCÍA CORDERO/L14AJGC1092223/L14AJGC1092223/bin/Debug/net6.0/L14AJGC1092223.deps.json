@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "L14AJGC1092223/1.0.0": {
+        "runtime": {
+          "L14AJGC1092223.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L14AJGC1092223/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
